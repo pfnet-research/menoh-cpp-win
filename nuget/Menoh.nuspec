@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Menoh</id>
+        <version>1.0</version>
+        <title>Menoh</title>
+        <authors>Preferred Networks</authors>
+        <licenseUrl>https://github.com/pfnet-research/menoh-cpp-win/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/pfnet-research/menoh</projectUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Menoh is a DNN inference library.</description>
+        <summary>Menoh is a DNN inference library.</summary>
+        <copyright>Copyright (c) 2018 Preferred Networks</copyright>
+        <language>en</language>
+        <tags>DeepLearning</tags>
+    </metadata>
+</package>
