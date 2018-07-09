@@ -21,6 +21,7 @@
         <NativeLibs Include="$(MSBuildThisFileDirectory)../../build/native/bin/menoh.dll" />
         <NativeLibs Include="$(MSBuildThisFileDirectory)../../build/native/bin/mkldnn.dll" />
         <NativeLibs Include="$(MSBuildThisFileDirectory)../../build/native/bin/mklml.dll" />
+        <NativeLibs Include="$(MSBuildThisFileDirectory)../../build/native/bin/libiomp5md.dll" />
 
         <None Include="@(NativeLibs)">
             <Link>%(RecursiveDir)%(FileName)%(Extension)</Link>
