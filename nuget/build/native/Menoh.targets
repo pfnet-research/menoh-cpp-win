@@ -6,7 +6,7 @@
     <ItemDefinitionGroup>
 
         <ClCompile>
-            <PreprocessorDefinitions>NUGET_ALTSEED;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+            <PreprocessorDefinitions>NUGET_MENOH;%(PreprocessorDefinitions)</PreprocessorDefinitions>
             <AdditionalIncludeDirectories>$(MSBuildThisFileDirectory)../../build/native/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
         </ClCompile>
 
